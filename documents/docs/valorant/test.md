@@ -1,3 +1,2 @@
-plugins:
-    - encryptcontent:
-        global_password: 'your_password'
+# test
+test
